@@ -7,3 +7,4 @@ A curated list of distributed key generation and threshold signatures implementa
 ## TSS list
 * [multi-party-ecdsa](https://github.com/ZenGo-X/multi-party-ecdsa): Rust implementation of {t,n}-threshold ECDSA 
 * [multi-party-bls](https://github.com/ZenGo-X/multi-party-bls): Threshold BLS signatures in Rust
+* [NuBLS](https://github.com/nucypher/NuBLS): Rust implementation of BLS-based threshold protocols such as threshold encryption and threshold proxy encryption
