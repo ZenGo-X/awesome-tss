@@ -14,6 +14,12 @@ A curated list of distributed key generation and threshold signatures implementa
 * [libBLS](https://github.com/skalenetwork/libBLS): skalenetwork's BLS signatures, threshold encryption, distributed key generation library in modern C++
 * [celo-threshold-bls-rs](https://github.com/celo-org/celo-threshold-bls-rs): celo's Threshold BLS Signatures and DKG in Rust
 * [NuBLS](https://github.com/nucypher/NuBLS): Rust implementation of BLS-based threshold protocols such as threshold encryption and threshold proxy encryption
-* [drand](https://drand.love/docs/cryptography/): Distributed randomness beacon, written in Go, based on threshold BLS
 * [tss-lib](https://github.com/binance-chain/tss-lib): Go code for Multiparty ECDSA and EdDSA
 * [blockchain-crypto-mpc](https://github.com/unbound-tech/blockchain-crypto-mpc): 2-party ECDSA and EdDSA in c++
+* [threshold-ecdsa](https://gitlab.com/cardinals1/threshold-ecdsa): Cardinals' Threshold ECDSA
+* [consensus-go](https://gitlab.com/alephledger/consensus-go): [Aleph consensus](https://arxiv.org/pdf/1908.05156.pdf) using threshold BLS signature for randomness 
+* [threshold-ed25519](https://gitlab.com/polychainlabs/threshold-ed25519): polychainlabs' Threshold Ed25519 in golang
+* [tendermint-validator](https://gitlab.com/polychainlabs/tendermint-validator): A multi-party-computation signing service for Tendermint nodes using threshold Ed25519 signatures
+* [drand](https://drand.love/docs/cryptography/): Distributed randomness beacon, written in Go, based on threshold BLS
+* [tss](https://gitlab.com/thorchain/tss): TSS Repositories for THORChain
+* [drand](https://drand.love/docs/cryptography/): Distributed randomness beacon, written in Go, based on threshold BLS
