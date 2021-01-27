@@ -3,11 +3,18 @@ A curated list of distributed key generation and threshold signatures implementa
 
 
 ## DKG list
-* 
+* [torus-node](https://github.com/torusresearch/torus-node): Torus's Distributed Key Generation & Storage & Management protocol
+* [aggregatable-dkg](https://github.com/kobigurk/aggregatable-dkg): Aggregatable DKG and VUF
+* [EthDKG](https://github.com/PhilippSchindler/EthDKG): An Ethereum-based Distributed Key Generation Protocol in python
+* [dkg-on-evm](https://github.com/orbs-network/dkg-on-evm): DKG for BLS threshold signature scheme on the EVM using solidity
+
 ## TSS list
 * [multi-party-ecdsa](https://github.com/ZenGo-X/multi-party-ecdsa): Rust implementation of {t,n}-threshold ECDSA 
 * [multi-party-bls](https://github.com/ZenGo-X/multi-party-bls): Threshold BLS signatures in Rust
+* [libBLS](https://github.com/skalenetwork/libBLS): skalenetwork's BLS signatures, threshold encryption, distributed key generation library in modern C++
+* [celo-threshold-bls-rs](https://github.com/celo-org/celo-threshold-bls-rs): celo's Threshold BLS Signatures and DKG in Rust
 * [NuBLS](https://github.com/nucypher/NuBLS): Rust implementation of BLS-based threshold protocols such as threshold encryption and threshold proxy encryption
 * [drand](https://drand.love/docs/cryptography/): Distributed randomness beacon, written in Go, based on threshold BLS
 * [tss-lib](https://github.com/binance-chain/tss-lib): Go code for Multiparty ECDSA and EdDSA
+* [blockchain-crypto-mpc](https://github.com/unbound-tech/blockchain-crypto-mpc): 2-party ECDSA and EdDSA in c++
 * [protect](https://github.com/jasonkresch/protect): A Platform for Robust Threshold Cryptography based on Asynchronous Publicly Verifiable Secret Sharing with Tunable Security
