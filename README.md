@@ -17,3 +17,4 @@ A curated list of distributed key generation and threshold signatures implementa
 * [drand](https://drand.love/docs/cryptography/): Distributed randomness beacon, written in Go, based on threshold BLS
 * [tss-lib](https://github.com/binance-chain/tss-lib): Go code for Multiparty ECDSA and EdDSA
 * [blockchain-crypto-mpc](https://github.com/unbound-tech/blockchain-crypto-mpc): 2-party ECDSA and EdDSA in c++
+* [protect](https://github.com/jasonkresch/protect): A Platform for Robust Threshold Cryptography based on Asynchronous Publicly Verifiable Secret Sharing with Tunable Security
