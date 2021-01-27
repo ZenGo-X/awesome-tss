@@ -25,3 +25,4 @@ A curated list of distributed key generation and threshold signatures implementa
 * [dss in kyber](https://github.com/dedis/kyber/tree/master/sign/dss): EPFL's implementation of ["Provably Secure Distributed Schnorr Signatures and a (t, n) Threshold Scheme for Implicit Certificates](https://dl.acm.org/citation.cfm?id=678297)
 * [tss](https://gitlab.com/thorchain/tss): TSS Repositories for THORChain
 * [protect](https://github.com/jasonkresch/protect): A Platform for Robust Threshold Cryptography based on Asynchronous Publicly Verifiable Secret Sharing with Tunable Security
+* [threshold-signatures](https://github.com/ing-bank/threshold-signatures): Threshold Signature Scheme for ECDSA (Rust)
