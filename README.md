@@ -24,3 +24,4 @@ A curated list of distributed key generation and threshold signatures implementa
 * drand ([[1]](https://drand.love/docs/cryptography/), [[2]](https://github.com/drand/drand)): Distributed randomness beacon, written in Go, based on threshold BLS
 * [dss in kyber](https://github.com/dedis/kyber/tree/master/sign/dss): EPFL's implementation of ["Provably Secure Distributed Schnorr Signatures and a (t, n) Threshold Scheme for Implicit Certificates](https://dl.acm.org/citation.cfm?id=678297)
 * [tss](https://gitlab.com/thorchain/tss): TSS Repositories for THORChain
+* [protect](https://github.com/jasonkresch/protect): A Platform for Robust Threshold Cryptography based on Asynchronous Publicly Verifiable Secret Sharing with Tunable Security
