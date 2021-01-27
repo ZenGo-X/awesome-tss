@@ -10,3 +10,4 @@ A curated list of distributed key generation and threshold signatures implementa
 * [NuBLS](https://github.com/nucypher/NuBLS): Rust implementation of BLS-based threshold protocols such as threshold encryption and threshold proxy encryption
 * [drand](https://drand.love/docs/cryptography/): Distributed randomness beacon, written in Go, based on threshold BLS
 * [tss-lib](https://github.com/binance-chain/tss-lib): Go code for Multiparty ECDSA and EdDSA
+* [protect](https://github.com/jasonkresch/protect): A Platform for Robust Threshold Cryptography based on Asynchronous Publicly Verifiable Secret Sharing with Tunable Security
