@@ -4,6 +4,7 @@ A curated list of distributed key generation and threshold signatures implementa
 
 ## DKG list
 * [torus-node](https://github.com/torusresearch/torus-node): Torus's Distributed Key Generation & Storage & Management protocol
+* [dkg in kyber](https://github.com/dedis/kyber/tree/master/share/dkg): EPFL's pedersen & rabin DKG implementations in golang
 * [aggregatable-dkg](https://github.com/kobigurk/aggregatable-dkg): Aggregatable DKG and VUF
 * [EthDKG](https://github.com/PhilippSchindler/EthDKG): An Ethereum-based Distributed Key Generation Protocol in python
 * [dkg-on-evm](https://github.com/orbs-network/dkg-on-evm): DKG for BLS threshold signature scheme on the EVM using solidity
@@ -20,6 +21,6 @@ A curated list of distributed key generation and threshold signatures implementa
 * [consensus-go](https://gitlab.com/alephledger/consensus-go): [Aleph consensus](https://arxiv.org/pdf/1908.05156.pdf) using threshold BLS signature for randomness 
 * [threshold-ed25519](https://gitlab.com/polychainlabs/threshold-ed25519): polychainlabs' Threshold Ed25519 in golang
 * [tendermint-validator](https://gitlab.com/polychainlabs/tendermint-validator): A multi-party-computation signing service for Tendermint nodes using threshold Ed25519 signatures
-* [drand](https://drand.love/docs/cryptography/): Distributed randomness beacon, written in Go, based on threshold BLS
+* drand ([1](https://drand.love/docs/cryptography/), [2](https://github.com/drand/drand)): Distributed randomness beacon, written in Go, based on threshold BLS
+* [dss in kyber](https://github.com/dedis/kyber/tree/master/sign/dss): EPFL's implementation of ["Provably Secure Distributed Schnorr Signatures and a (t, n) Threshold Scheme for Implicit Certificates](https://dl.acm.org/citation.cfm?id=678297)
 * [tss](https://gitlab.com/thorchain/tss): TSS Repositories for THORChain
-* [drand](https://drand.love/docs/cryptography/): Distributed randomness beacon, written in Go, based on threshold BLS
