@@ -26,3 +26,4 @@ A curated list of distributed key generation and threshold signatures implementa
 * [tss](https://gitlab.com/thorchain/tss): TSS Repositories for THORChain
 * [protect](https://github.com/jasonkresch/protect): A Platform for Robust Threshold Cryptography based on Asynchronous Publicly Verifiable Secret Sharing with Tunable Security
 * [threshold-signatures](https://github.com/ing-bank/threshold-signatures): Threshold Signature Scheme for ECDSA (Rust)
+* [frost-dalek](https://github.com/isislovecruft/frost-dalek) An Rust implementation of FROST: Flexible Round-Optimised Schnorr Threshold signatures using the Ristretto group
