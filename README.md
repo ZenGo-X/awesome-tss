@@ -15,6 +15,7 @@ A curated list of distributed key generation and threshold signatures implementa
 * [libBLS (SKALE Network)](https://github.com/skalenetwork/libBLS): skalenetwork's BLS signatures, threshold encryption, distributed key generation library in modern C++
 * [celo-threshold-bls-rs (Celo)](https://github.com/celo-org/celo-threshold-bls-rs): celo's Threshold BLS Signatures and DKG in Rust
 * [NuBLS (NuCypher)](https://github.com/nucypher/NuBLS): Rust implementation of BLS-based threshold protocols such as threshold encryption and threshold proxy encryption
+* [bls-signatures (Chia-Network)](https://github.com/Chia-Network/bls-signatures): BLS signatures with aggregation in C++, using the relic toolkit BLS12-381
 * drand ([[1]](https://drand.love/docs/cryptography/), [[2]](https://github.com/drand/drand)): Distributed randomness beacon, written in Go, based on threshold BLS
 * [tss-lib (Binance)](https://github.com/binance-chain/tss-lib): Go code for Multiparty ECDSA and EdDSA
 * [blockchain-crypto-mpc (Unbound Tech)](https://github.com/unbound-tech/blockchain-crypto-mpc): 2-party ECDSA and EdDSA in c++
