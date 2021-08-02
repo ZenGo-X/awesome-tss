@@ -8,6 +8,7 @@ A curated list of distributed key generation and threshold signatures implementa
 * [aggregatable-dkg (Kobi Gurkan)](https://github.com/kobigurk/aggregatable-dkg): Aggregatable DKG and VUF
 * [EthDKG (Philipp Schindler)](https://github.com/PhilippSchindler/EthDKG): An Ethereum-based Distributed Key Generation Protocol in python
 * [dkg-on-evm (Orbs Network)](https://github.com/orbs-network/dkg-on-evm): DKG for BLS threshold signature scheme on the EVM using solidity
+* [Tip (Mixin)](https://github.com/MixinNetwork/tip): Throttled Identity Protocol
 
 ## TSS list
 * [multi-party-ecdsa (ZenGo X)](https://github.com/ZenGo-X/multi-party-ecdsa): Rust implementation of {t,n}-threshold ECDSA 
@@ -31,6 +32,9 @@ A curated list of distributed key generation and threshold signatures implementa
 * [threshold_crypto (PoA network)](https://github.com/poanetwork/threshold_crypto): A Rust pairing-based threshold cryptosystem for collaborative decryption and signatures used in HoneybadgerBFT implementation
 * [frost-ed25519 (Taurus)](https://github.com/taurusgroup/frost-ed25519): A Go implementation of FROST threshold signatures for Ed25519 
 
+
+## DKR list
+* [Fouque-Stern DKR (ZenGo)]
 
 
 
