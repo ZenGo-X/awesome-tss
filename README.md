@@ -34,7 +34,7 @@ A curated list of distributed key generation and threshold signatures implementa
 
 
 ## DKR list
-* [Fouque-Stern DKR (ZenGo)]
+* [Fouque-Stern DKR (ZenGo)](https://github.com/ZenGo-X/fs-dkr)
 
 
 
