@@ -30,7 +30,9 @@ A curated list of distributed key generation and threshold signatures implementa
 * [threshold-signatures (ING Bank)](https://github.com/ing-bank/threshold-signatures): Threshold Signature Scheme for ECDSA (Rust)
 * [frost-dalek (Isis Lovecruft)](https://github.com/isislovecruft/frost-dalek) A Rust implementation of FROST: Flexible Round-Optimised Schnorr Threshold signatures using the Ristretto group
 * [threshold_crypto (PoA network)](https://github.com/poanetwork/threshold_crypto): A Rust pairing-based threshold cryptosystem for collaborative decryption and signatures used in HoneybadgerBFT implementation
-* [frost-ed25519 (Taurus)](https://github.com/taurusgroup/frost-ed25519): A Go implementation of FROST threshold signatures for Ed25519 
+* [frost-ed25519 (Taurus)](https://github.com/taurusgroup/frost-ed25519): A Go implementation of FROST threshold signatures for Ed25519
+* [multi-party-sig (Taurus)](https://github.com/taurusgroup/multi-party-sig): A Go implementation of threshold signing for ECDSA (CMP protocol) and Schnorr/Taproot (FROST protocol)
+
 
 
 ## DKR list
