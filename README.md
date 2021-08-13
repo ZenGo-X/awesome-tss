@@ -32,7 +32,7 @@ A curated list of distributed key generation and threshold signatures implementa
 * [threshold_crypto (PoA network)](https://github.com/poanetwork/threshold_crypto): A Rust pairing-based threshold cryptosystem for collaborative decryption and signatures used in HoneybadgerBFT implementation
 * [frost-ed25519 (Taurus)](https://github.com/taurusgroup/frost-ed25519): A Go implementation of FROST threshold signatures for Ed25519
 * [multi-party-sig (Taurus)](https://github.com/taurusgroup/multi-party-sig): A Go implementation of threshold signing for ECDSA (CMP protocol) and Schnorr/Taproot (FROST protocol)
-
+* [tss-lib (SwingBy Protocol)](https://github.com/SwingbyProtocol/tss-lib): A Go implementation of [GG20](https://eprint.iacr.org/2020/540) threshold ECDSA
 
 
 ## DKR list
