@@ -13,6 +13,7 @@ A curated list of distributed key generation and threshold signatures implementa
 ## TSS list
 * [multi-party-ecdsa (ZenGo X)](https://github.com/ZenGo-X/multi-party-ecdsa): Rust implementation of {t,n}-threshold ECDSA 
 * [multi-party-bls (ZenGo X)](https://github.com/ZenGo-X/multi-party-bls): Threshold BLS signatures in Rust
+* [kryptology (Coinbase)](https://github.com/coinbase/kryptology): Coinbase's advanced cryptography library (in Go), including Threshold ECDSA and Distributed key generation 
 * [libBLS (SKALE Network)](https://github.com/skalenetwork/libBLS): skalenetwork's BLS signatures, threshold encryption, distributed key generation library in modern C++
 * [celo-threshold-bls-rs (Celo)](https://github.com/celo-org/celo-threshold-bls-rs): celo's Threshold BLS Signatures and DKG in Rust
 * [NuBLS (NuCypher)](https://github.com/nucypher/NuBLS): Rust implementation of BLS-based threshold protocols such as threshold encryption and threshold proxy encryption
