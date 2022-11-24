@@ -35,7 +35,7 @@ A curated list of distributed key generation and threshold signatures implementa
 * [multi-party-sig (Taurus)](https://github.com/taurusgroup/multi-party-sig): A Go implementation of threshold signing for ECDSA (CMP protocol) and Schnorr/Taproot (FROST protocol)
 * [tss-lib (SwingBy Protocol)](https://github.com/SwingbyProtocol/tss-lib): A Go implementation of [GG20](https://eprint.iacr.org/2020/540) threshold ECDSA
 * [tofn (Axelar Network)](https://github.com/axelarnetwork/tofn) : A threshold cryptography library in Rust, implementing GG20
-
+* [tss-wasm](https://github.com/0xEigenLabs/tss-wasm): A hardware friendly [multi-party-ecdsa (ZenGo X)](https://github.com/ZenGo-X/multi-party-ecdsa), only implementing GG18.
 ## DKR list
 * [Fouque-Stern DKR (ZenGo)](https://github.com/ZenGo-X/fs-dkr)
 
