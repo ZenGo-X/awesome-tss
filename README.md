@@ -36,6 +36,7 @@ A curated list of distributed key generation and threshold signatures implementa
 * [tss-lib (SwingBy Protocol)](https://github.com/SwingbyProtocol/tss-lib): A Go implementation of [GG20](https://eprint.iacr.org/2020/540) threshold ECDSA
 * [tofn (Axelar Network)](https://github.com/axelarnetwork/tofn) : A threshold cryptography library in Rust, implementing GG20
 * [Open TSS](https://github.com/LatticeX-Foundation/opentss): A Rust implementation of multi-party {t,n}-threshold signature scheme (TSS).
+* [mpecdsa (Jack Doerner)](https://gitlab.com/neucrypt/mpecdsa) : 2-of-n and t-of-n threshold ECDSA implementations (Rust)
 
 ## DKR list
 * [Fouque-Stern DKR (ZenGo)](https://github.com/ZenGo-X/fs-dkr)
