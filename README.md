@@ -9,6 +9,7 @@ A curated list of distributed key generation and threshold signatures implementa
 * [EthDKG (Philipp Schindler)](https://github.com/PhilippSchindler/EthDKG): An Ethereum-based Distributed Key Generation Protocol in python
 * [dkg-on-evm (Orbs Network)](https://github.com/orbs-network/dkg-on-evm): DKG for BLS threshold signature scheme on the EVM using solidity
 * [Tip (Mixin)](https://github.com/MixinNetwork/tip): Throttled Identity Protocol
+* [dkg](https://github.com/serai-dex/serai/tree/develop/crypto/dkg): A DKG library in Rust for implementors of ff/group.
 
 ## TSS list
 * [multi-party-ecdsa (ZenGo X)](https://github.com/ZenGo-X/multi-party-ecdsa): Rust implementation of {t,n}-threshold ECDSA 
@@ -38,6 +39,7 @@ A curated list of distributed key generation and threshold signatures implementa
 * [tss-wasm](https://github.com/0xEigenLabs/tss-wasm): A hardware friendly [multi-party-ecdsa (ZenGo X)](https://github.com/ZenGo-X/multi-party-ecdsa), only implementing GG18.
 * [Open TSS](https://github.com/LatticeX-Foundation/opentss): A Rust implementation of multi-party {t,n}-threshold signature scheme (TSS).
 * [mpecdsa (Jack Doerner)](https://gitlab.com/neucrypt/mpecdsa) : 2-of-n and t-of-n threshold ECDSA implementations (Rust)
+* [modular-frost](https://github.com/serai-dex/serai/tree/develop/crypto/frost): An IETF-compliant FROST implementation in Rust, designed to modularly support various protocols reducible to Schnorr.
 
 ## DKR list
 * [Fouque-Stern DKR (ZenGo)](https://github.com/ZenGo-X/fs-dkr)
